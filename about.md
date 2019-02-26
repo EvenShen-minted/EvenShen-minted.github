@@ -22,7 +22,7 @@ Data Analyst, **Minted**
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
+* **Skill 1** - `badminton` 🏸️
 * **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
 * **Skill 3** - `Skill` / `Skill` / `Skill`
 * **Skill 4** - `Skill` / `Skill` / `Skill` 
