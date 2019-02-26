@@ -23,11 +23,8 @@ Data Analyst, **Minted**
 ## Skills
 
 * **Skill 1** - `badminton` 🏸️
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
+* **Skill 2** - `ukulele` 🌴
+* **Skill 3** - `cooking` 👩‍🍳
     
     
 ## Achievements
