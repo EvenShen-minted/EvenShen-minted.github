@@ -12,13 +12,12 @@ Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* Applied Mathematics Bachelor degree from UCLA
+* Data Science Master degree from Brown University
 
 ## Roles
 
-Founder, ABC Organisation
+Data Analyst, Minted
 
 ## Skills
 
