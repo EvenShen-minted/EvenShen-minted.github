@@ -12,8 +12,8 @@ Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ## Education
 
-* Applied Mathematics Bachelor degree from UCLA
-* Data Science Master degree from Brown University
+**Applied Mathematics** Bachelor degree from **UCLA**
+**Data Science** Master degree from **Brown University**
 
 ## Roles
 
