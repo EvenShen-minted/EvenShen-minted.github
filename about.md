@@ -12,15 +12,13 @@ It’s Even Shen. I hope my name does not sound odd to you. : )
 
 **Data Science** Master degree from **Brown University**
 
-## Roles
+## Things I do
 
 Data Analyst, **Minted**
 
-## Skills
+## Things I love
 
-* **Skill 1** - `badminton` 🏸️
-* **Skill 2** - `ukulele` 🌴
-* **Skill 3** - `cooking` 👩‍🍳
+`badminton` 🏸️ . `ukulele` 🌴 . `cooking` 👩‍🍳
     
 ## Contact me
 
