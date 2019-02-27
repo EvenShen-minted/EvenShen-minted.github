@@ -17,7 +17,7 @@ built a recurrent neural network to do a sentimental analysis on twitter data se
 ### [Project 3 Visualization Deep Learning](https://medium.com/@yiwenshen/deep-learning-mini-project-3-visualization-of-cnn-b2dd1ae8ca)
 visualized the convolutional neural network I built for flower recognization.
 
-***
+
 
 ## Contact me
 
