@@ -4,28 +4,20 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://medium.com/@yiwenshen/deep-learning-mini-project-1-cnn-47645b571267) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Project 1 Flower Recognition Deep Learning](https://medium.com/@yiwenshen/deep-learning-mini-project-1-cnn-47645b571267) 
+built a convolutional neural network to recognize flowers.
 
 ***
 
-### [Project 2](https://medium.com/@yiwenshen/deep-learning-mini-project-2-nlp-75e845571059)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [Project 2 Twitter Data Deep Learning](https://medium.com/@yiwenshen/deep-learning-mini-project-2-nlp-75e845571059)
+built a recurrent neural network to do a sentimental analysis on twitter data set.
 
 ***
 
-## Other Projects
+### [Project 3 Visualization Deep Learning](https://medium.com/@yiwenshen/deep-learning-mini-project-3-visualization-of-cnn-b2dd1ae8ca)
+visualized the convolutional neural network I built for flower recognization.
 
-### This Could Be Another Project Name
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-   
-### This Could Be Yet Another Project Name
-
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
+***
 
 ## Contact me
 
