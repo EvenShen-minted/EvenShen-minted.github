@@ -1,3 +1,8 @@
+## Data Geek 👩🏻‍💻 ##
+## Constant Learner 📖 ##
+## Foodie 🥂 ##
+## Optimist 🐣 ##
+
 ---
 layout: page
 title: About
