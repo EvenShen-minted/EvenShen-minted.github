@@ -1,13 +1,12 @@
-## Data Geek 👩🏻‍💻 ##
-## Constant Learner 📖 ##
-## Foodie 🥂 ##
-## Optimist 🐣 ##
-
 ---
 layout: page
 title: About
 permalink: /about/
 ---
+## A Data Geek 👩🏻‍💻 ##
+## Constant Learner 📖 ##
+## Foodie 🥂 ##
+## Optimist 🐣 ##
 Hello world,
 It’s Even Shen. I hope my name does not sound odd to you. : )
 
